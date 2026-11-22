@@ -57,6 +57,12 @@
   position: relative;
 }
 
+.hero__badge {
+  margin: 0 0 12px;
+  font-weight: 700;
+  color: var(--orange-500);
+}
+
 .hero__brand {
   margin: 0 0 6px;
   font-family: var(--font-display);
